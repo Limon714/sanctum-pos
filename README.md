@@ -1,7 +1,7 @@
 ## Follow this step
 
 ### Sanctum Authentication
-1.Understanding Project Goal
+`1.Understanding Project Goal`
 2.File Folder Structure - Phase 01
 3.Write and Run Migration File
 4.Install Sanctum
